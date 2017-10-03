@@ -8,7 +8,7 @@ Generate and serve a simple movie trailer website containing some of my favorite
 ## Instruction
 1. Clone repository / extract zip file to a working directory.
 2. Open terminal and navigate to working directory.
-3. Run ```python entertainment_center.py```.
+3. Run ```python entertainment_center.py``` (see "fresh_tomatoes.html").
 
 ![Screenshot](https://i.imgur.com/6tVxDBW.png)
 
