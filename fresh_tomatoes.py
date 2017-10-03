@@ -1,7 +1,6 @@
-import webbrowser
 import os
 import re
-
+import webbrowser
 
 # Styles and scripting for the page
 main_page_head = '''
@@ -85,7 +84,6 @@ main_page_head = '''
 </head>
 '''
 
-
 # The main page layout and title bar
 main_page_content = '''
   <body>
@@ -118,7 +116,6 @@ main_page_content = '''
   </body>
 </html>
 '''
-
 
 # A single movie entry html template
 movie_tile_content = '''
